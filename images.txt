@@ -1,5 +1,5 @@
 #支持私库
---platform=linux/arm64 n8nio/n8n:1.105.2
+--platform=linux/arm64 unclecode/crawl4ai:0.7.2
 
 #支持指定架构
 
