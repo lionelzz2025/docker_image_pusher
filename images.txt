@@ -1,5 +1,5 @@
 #支持私库
-n8nio/n8n:1.105.1-arm64
+-platform=linux/arm64 n8nio/n8n:1.105.2
 
 #支持指定架构
 
