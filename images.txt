@@ -1,7 +1,5 @@
 #支持私库
---platform=linux/arm64 n8nio/n8n:latest
---platform=linux/arm64 ngrok/ngrok:latest
---platform=linux/arm64/v8 mysql:latest
+--platform=linux/arm64 n8nio/n8n:stable
 
 #支持指定架构
 
