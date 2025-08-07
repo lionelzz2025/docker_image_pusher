@@ -1,5 +1,3 @@
 #支持私库
---platform=linux/arm64 unclecode/crawl4ai:0.7.2
-
 #支持指定架构
-
+--platform=linux/arm64 diygod/rsshub:2025-08-06
