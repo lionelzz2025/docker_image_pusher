@@ -1,4 +1,4 @@
 #支持私库
 #支持指定架构
---platform=linux/arm64 homeassistant/home-assistant:stable
-#--platform=linux/arm64/v8 alpine:latest
+#--platform=linux/arm64 homeassistant/home-assistant:stable
+--platform=linux/arm64/v8 node:20
